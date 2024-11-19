@@ -33,11 +33,14 @@ body {
 
 .card h2 {
   margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
 }
 
 .card p {
   font-size: 16px;
   color: var(--text-color);
+  margin-bottom: 20px;
 }
 
 .read-more {
